@@ -1,6 +1,7 @@
 # web_app_widget
 
-Foobar is a Python library for dealing with word pluralization.
+web_app_widget is the collection of widget for the web apps.
+ - WebAppDrawer
 
 ## Installation
 
